@@ -1,0 +1,15 @@
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryDAL.dll
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.AssemblyInfo.cs
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryBLL.deps.json
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryBLL.runtimeconfig.json
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryBLL.runtimeconfig.dev.json
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryBLL.dll
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryBLL.pdb
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\bin\Debug\netcoreapp3.1\LibraryDAL.pdb
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.csproj.CopyComplete
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.dll
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.pdb
+C:\Users\owner\source\repos\ADOnet\LibraryBLL\obj\Debug\netcoreapp3.1\LibraryBLL.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\bin\Debug\netcoreapp3.1\LibraryDAL.deps.json
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\bin\Debug\netcoreapp3.1\LibraryDAL.dll
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\bin\Debug\netcoreapp3.1\LibraryDAL.pdb
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.AssemblyInfo.cs
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.dll
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.pdb
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\bin\Debug\netcoreapp3.1\LibraryDAL.runtimeconfig.json
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\bin\Debug\netcoreapp3.1\LibraryDAL.runtimeconfig.dev.json
+C:\Users\owner\source\repos\ADOnet\LibraryDAL\obj\Debug\netcoreapp3.1\LibraryDAL.genruntimeconfig.cache
