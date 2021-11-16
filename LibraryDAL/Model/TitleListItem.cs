@@ -1,14 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-
-#nullable disable
+using System.ComponentModel.DataAnnotations;
 
 namespace LibraryDAL.Model
 {
     public partial class TitleListItem
     {
-        public int IdTitleListItem { get; set; }
+        [Key]
+        public int Id { get; set; }
+        [Required]
         public int TitleId { get; set; }
+        [Required]
         public int TitleListId { get; set; }
 
         public virtual Title Title { get; set; }

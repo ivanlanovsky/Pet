@@ -9,11 +9,11 @@ namespace LibraryDAL.Context
 {
     public partial class LibraryContext : DbContext
     {
-        public LibraryContext()
-        :base(){}
 
-        public LibraryContext(DbContextOptions<LibraryContext> options)
-            : base(options){}
+        public LibraryContext(DbContextOptions<LibraryContext> options): base(options)
+        {
+            Database.EnsureCreated();
+        }
 
         public virtual DbSet<ListType> ListTypes { get; set; }
         public virtual DbSet<Title> Titles { get; set; }

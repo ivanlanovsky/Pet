@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-#nullable disable
 
 namespace LibraryDAL.Model
 {
@@ -12,7 +12,9 @@ namespace LibraryDAL.Model
             TitleListItems = new HashSet<TitleListItem>();
         }
 
-        public int IdTitleList { get; set; }
+        [Key]
+        public int Id { get; set; }
+        [Required]
         public int UserId { get; set; }
         public int ListTypeId { get; set; }
 

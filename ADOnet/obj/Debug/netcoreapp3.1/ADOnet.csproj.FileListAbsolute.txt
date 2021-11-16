@@ -48,7 +48,6 @@ C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\staticwebassets\ADOnet.StaticWebAssets.xml
 C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\scopedcss\bundle\ADOnet.styles.css
 C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\ADOnet.RazorTargetAssemblyInfo.cache
-C:\Users\owner\source\repos\ADOnet\ADOnet\bin\Debug\netcoreapp3.1\web.config
 C:\Users\owner\source\repos\ADOnet\ADOnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\owner\source\repos\ADOnet\ADOnet\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\owner\source\repos\ADOnet\ADOnet\bin\Debug\netcoreapp3.1\ADOnet.exe
