@@ -17,8 +17,4 @@
     <ProjectReference Include="..\LibraryDAL\LibraryDAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DBO\" />
-  </ItemGroup>
-
 </Project>
