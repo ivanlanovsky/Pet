@@ -10,6 +10,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using LibraryBLL;
+using LibraryBLL.Infrastructure;
+
 
 namespace ADOnet
 {
@@ -24,8 +26,10 @@ namespace ADOnet
         public void ConfigureServices(IServiceCollection services)
         {
             string connection = Configuration.GetConnectionString("DefaultConnection");
+            services.AddAutoMapper();
             services.AddLibraryContext(connection);
             services.AddControllersWithViews();
+            services.AddDataServices();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

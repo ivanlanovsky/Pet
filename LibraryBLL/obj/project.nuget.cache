@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4fkVRb6MRldUlyz4QVh6YosDi+0SZrLwCT4UagpMcdowTyi3W7C2kS/Zv1ca8+xAdEVTWLkiNesKHrP0JtIOFw==",
+  "dgSpecHash": "rdlSsS8jsHTWOgpFAWrYHGbkWQHrMtlfyDmpZeCGehqIGFY8TYpezcn4TbBgPZjM2WXrctweSAZfH61Hdaf2eg==",
   "success": true,
   "projectFilePath": "C:\\Users\\owner\\source\\repos\\ADOnet\\LibraryBLL\\LibraryBLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GeV/TzyY7wn33m5jRzLBlIvgwy/QsbnMZTTd/Q1jAVrUDwIIdw2qBJOV+bW40PXC/OABEo1cAfnrriKip30l0g==",
+  "dgSpecHash": "4+Mqi71HFPCeqa/w1Jw692+9K15BX9Wygty4NtWma3AEEDe2PZRrszNk36nlBlFCQX3SKetDSXAVEPDEALB4Iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\owner\\source\\repos\\ADOnet\\ADOnet\\ADOnet.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

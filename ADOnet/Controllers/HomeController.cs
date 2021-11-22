@@ -4,15 +4,21 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LibraryBLL.Services;
+using LibraryBLL.Dto;
 
 namespace ADOnet.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: HomeController
+        private readonly ITitleService tService;
+        public HomeController(ITitleService service)
+        {
+            this.tService = service;
+        }
         public ActionResult Index()
         {
-            return View();
+            return View(tService.GetAllTitles());
         }
     }
 }

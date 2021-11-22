@@ -1,8 +1,19 @@
-﻿
+﻿@model IEnumerable<TitleViewModel>
 @{
     Layout = "_Layout";
     ViewData["Title"] = "Index";
 }
 
+
+
 <h1>Index</h1>
+<ul>
+    @{
+
+        foreach (TitleViewModel t in Model)
+        {
+        <li><a asp-controller="Title" asp-action="@t.Id">@t.Name</a></li>
+        }
+    }
+</ul>
 

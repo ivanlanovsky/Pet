@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LibraryBLL.DBO
+namespace LibraryBLL.Services
 {
-    class UserViewObject
+    class UserService
     {
     }
 }
