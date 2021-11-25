@@ -1,0 +1,12 @@
+﻿@model TitleViewModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = Model.Name;
+}
+
+<h3>@Model.Name</h3>
+<ul>
+    <li>Series: @Model.Series</li>
+    <li>Year: @Model.Year</li>
+</ul> 
+

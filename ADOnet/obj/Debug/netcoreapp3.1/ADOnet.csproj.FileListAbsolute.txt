@@ -152,3 +152,5 @@ C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\Razor\Views\_V
 C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\owner\source\repos\ADOnet\ADOnet\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\owner\source\repos\ADOnet\ADOnet\obj\Debug\netcoreapp3.1\Razor\Views\Title\Details.cshtml.g.cs
